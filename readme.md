@@ -156,9 +156,8 @@
 
 <br>
 <br>
-<a href="https://vshymanskyy.github.io/StandWithUkraine">
-	<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
-</a>
+This fork is worked on by myUpchar team - 
+<a href="https://www.myupchar.com/en">myUpchar - Digital Hospital</a>
 <br>
 <br>
 
